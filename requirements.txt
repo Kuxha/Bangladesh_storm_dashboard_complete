@@ -1,11 +1,4 @@
 Flask==2.0.1
-geopandas==0.13.2
-pandas==2.0.3
+pandas==2.0.3        # if app.py uses it
 numpy==1.24.3
-Shapely==2.0.1
-Werkzeug==2.0.1
-gunicorn==20.1.0
-itsdangerous==2.0.1
-Jinja2==3.0.1
-MarkupSafe==2.0.1
-
+# GeoPandas removed — it’s only for preprocessing
