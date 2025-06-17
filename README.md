@@ -1,6 +1,6 @@
 # Bangladesh Storm Risk Dashboard
 
-A comprehensive web-based dashboard for assessing storm risk to health and education facilities in Bangladesh at the sub-district level.
+A comprehensive web-based dashboard for assessing storm risk to health, and education facilities in Bangladesh at the sub-district level.
 
 ## Features
 
