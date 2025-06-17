@@ -1,4 +1,4 @@
 Flask==2.0.1
-pandas==2.0.3        # if app.py uses it
-numpy==1.24.3
-# GeoPandas removed — it’s only for preprocessing
+pandas==2.0.3   # only if app.py actually imports it
+numpy==1.24.3   # same note
+# geopandas removed – not needed at runtime
